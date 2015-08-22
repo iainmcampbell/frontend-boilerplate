@@ -1,0 +1,16 @@
+{
+  "name": "frontend-template",
+  "version": "0.0.0",
+  "authors": [
+    "iainmcampbell <hey@iainmc.ca>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
